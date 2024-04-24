@@ -1,0 +1,3 @@
+module.exports = {
+  TELEGRAM_BOT_TOKEN: '7197314190:AAEBptKms0LFA8-fWIOGhITuaM3tyKJkJnU'
+};
